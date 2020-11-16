@@ -11,7 +11,7 @@ var app = new Vue({
   },
   methods: {
     saluta: function (event) {
-      this.h1 = 'Ciao!';
+      this.h1 = 'Test Vue event';
     }
   }
 })
